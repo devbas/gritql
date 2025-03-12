@@ -69,5 +69,5 @@
 	path = resources/language-submodules/tree-sitter-kotlin
 	url = https://github.com/fwcd/tree-sitter-kotlin
 [submodule "resources/language-submodules/tree-sitter-perl"]
-	path = resources/language-submodules/tree-sitter-perl 
+	path = resources/language-submodules/tree-sitter-perl
 	url = https://github.com/tree-sitter-perl/tree-sitter-perl
